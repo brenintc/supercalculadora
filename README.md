@@ -1,7 +1,7 @@
 # supercalculadora
 
 <html>
-<h1 style = "color:#ffa500">
+<h1 style = "color:#ffa500";>
   SuperCalculadora codada em java utilizando a tecnologia Swing.</color>
 </h1>
   
