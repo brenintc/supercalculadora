@@ -1,8 +1,8 @@
 # supercalculadora
 
 <html>
-<h1>
-  <color: orange;>SuperCalculadora codada em java utilizando a tecnologia Swing.</color>
+<h1 style = "color:orange">
+  SuperCalculadora codada em java utilizando a tecnologia Swing.</color>
 </h1>
   
 </html>
