@@ -2,9 +2,9 @@
 
 <html>
   
-<h1 color:#ffa500;>
+<h3 color:#ffa500;>
   SuperCalculadora codada em java utilizando a tecnologia Swing.
-</h1>
+</h3>
   
 </html>
 
